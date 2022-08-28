@@ -1,0 +1,118 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+nav{
+    background-color: white;
+    display: flex;
+    width: 100%;
+    /* margin-bottom: 10%; */
+}
+label{
+    font-size: 30px;
+    padding: 25px;
+}
+/* ul{
+    display: inline-block;
+} */
+ul{
+    list-style: none;
+    margin-top: 2%;
+    
+}
+a{
+    color: rgb(3, 3, 41);
+    text-decoration: none;
+}
+.l1{
+    display: flex;
+    padding: 10px;
+    
+}
+.l1 li{
+    padding: 5px;
+    padding-right: 10px;
+}
+
+.l2{
+    display: flex;
+    /* float: right; */
+    margin-left: 50%;
+    padding:10px
+}
+.l2 li{
+    padding: 5px;
+}
+.l2 li input{
+    color: white;
+    font-weight: bolder;
+    background-color: #2d36e0;
+    padding: 15px;
+    margin-top: -17%;
+    border: none;
+    border-radius: 3px;
+}
+/* section 2 */
+.join{
+    background-color: #16003B;
+    color: white;
+    margin-top: -2%;
+}
+p{
+    text-align: center;
+    padding: 3%;
+}
+p input{
+    color: white;
+    font-weight: bold;
+    background-color: #2d36e0;
+    padding:8px 10px;
+    border:none;
+    border-radius: 3px;
+}
+/* section 3 */
+.main{
+    display: flex;
+}
+.left{
+    text-align: center;
+    flex: 50%;
+}
+.right{
+    color: rgb(3, 3, 41);
+    flex: 50%;
+}
+.where{
+    font-size: 100px;
+    margin-top: 2%;
+    margin-bottom: -2%;
+
+}
+.slack{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 1%;
+    text-align: left;
+    font-size: 16px;
+    line-height: 24px;
+    padding-left: 0%;
+}
+.email{
+    width: 50%;
+    padding: 10px;
+   
+}
+.start{
+    width: 20%;
+    padding: 11px;
+    background-color: #2d36e0;
+    border: none;
+    border-radius: 3px;
+}
+.already{
+    text-align: left;
+    padding-left: 0;
+}
+.already a{
+    color: blue;
+    text-decoration: underline;
+}

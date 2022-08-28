@@ -1,0 +1,165 @@
+body{
+    overflow-x: hidden;
+    
+}
+/* navbar */
+#title{
+    background-color: white;
+    padding: 2% 5%;
+}
+nav{
+    background-color: white;
+}
+.navbar-brand{
+    font-size: larger;
+    font-weight: bolder;
+    color: #940279;
+}
+input{
+    height: 2rem;
+    border-radius: 15px;
+    margin-left: 3%;
+}
+ul{
+    margin-right: 4%;
+}
+.btn1{
+    font-size: 13px;
+    color: white;
+    background-color: #940279;
+    border-radius: 15px;
+    border: none;
+    width: 12rem;
+    height: 2rem;
+    margin-right: 2%;
+}
+.btn2{
+    border-radius: 15px;
+    border: none;
+    height: 2rem;
+    width: 5rem;
+    margin-right: 1%;
+}
+
+/* page 1 */
+.nav1{
+    padding-left: 1%;
+    margin-top: 2%;
+}
+.navl{
+    margin-top: 8%;
+   
+}
+h1{
+    font-weight: 500;
+    font-size: 4rem;
+}
+.buy{
+    color: #940279;
+
+}
+.lorem1{
+    font-weight:500;
+}
+.sm-btn{
+    color: #940279;
+    margin: 1% 1.5% 1% 0;
+    font-style: italic;
+    font-size: smaller;
+    height: 1.5rem;
+    border-radius: 7px;
+    border: none;
+}
+.purchase{
+    color: white;
+    background-color: #940279;
+    border-radius: 15px;
+    border: none;
+    height: 2rem;
+    font-size: 13px;
+    box-shadow: 0 0 5px grey;
+    padding-right: 4%;
+    margin-top: 3%;
+}
+.woman{
+    height: 500px;
+    width: 500px;
+    border-radius: 50%;
+    margin-left: 15%;
+}
+
+/* WHAT */
+#what{
+    background-color: #940279;
+    text-align: center;
+    justify-content: center;
+    padding-bottom: 2%;
+}
+.what{
+    padding-top: 5%;
+    color: #fff;
+    font-weight: 100;
+}
+.cards{
+    /* padding-left: 10%; */
+    padding: 2% 10%;
+    margin-left: 3%;
+}
+.card{
+    text-align: left;
+    border-radius: 15px;
+    /* height: 60px; */
+    padding: 0% -2%;
+    border: none;
+    
+} 
+.card img{
+    border-radius: 15px;
+}
+.card a{
+    color: #000;
+    border-radius:15px; 
+    height: 2rem;
+    font-size: 0.75rem;
+    background-color: rgb(190, 185, 185);
+    border-color: rgb(158, 155, 155);
+}
+
+/* Quick */
+#Quick{
+    background-color: #fff;
+    margin-top: 7%;
+    padding-left: 1%
+}
+.lady{
+    height: 400px;
+    width: 400px;
+    border-radius: 50%;
+    margin-left: 15%;
+}
+.qr{
+    margin-top: 5%;
+}
+.qr p{
+    width: 50%;
+}
+.qr .b1{
+    background-color: #940279;
+    border-radius: 15px;
+    color: white;
+    height: 2rem;
+    font-size: 0.75rem;
+    border:none;
+    padding: 0 2%;
+
+}
+.qr .b2{
+    background-color: rgb(190, 185, 185);
+    border-radius: 15px;
+    font-size: small;
+    color: #000;
+    height: 2rem;
+    font-size: 0.75rem;
+    border-color: rgb(158, 155, 155);
+    padding: 0 2%;
+}

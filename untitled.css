@@ -1,0 +1,53 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+div{
+    background-color: grey;
+    text-align: center;
+    width: 40%;
+    margin: auto;
+    padding: 5%;
+    padding-bottom: 100px;
+}
+h1{ 
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: left;
+    margin-left: -4%;
+}
+input{
+    width: 100%;
+    padding: 10px;
+    /* padding: 10px 0;  */
+    margin: 2% 0;
+    margin-left:-5%;
+    border-radius: 5px;
+    border: none;
+    box-sizing: border-box;
+}
+.sign{
+    background-color: aqua;
+    padding: 10px 0;
+}
+.sign:hover{
+    background-color: rgb(17, 83, 83);
+    cursor: pointer;
+}
+.h2{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    font-size: 30px;
+}
+.lov{
+    background-color: aqua;
+    padding: 15px 10px;
+    font-size: 20px;
+    color: white;
+}
+a{
+    text-decoration: none;
+}
+.lov:hover{
+     background-color: rgb(17, 83, 83);
+     cursor: pointer;
+}
